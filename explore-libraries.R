@@ -20,8 +20,7 @@ nrow(pkgs)
 ## count some things! inspiration
 ##   * tabulate by LibPath, Priority, or both
 pkgs %>% count(LibPath,Priority)
-##   * what proportion need compilation?
-pkgs %>
+
   ##   * how break down re: version of R they were built on
   
   ## for tidyverts, here are some useful patterns
