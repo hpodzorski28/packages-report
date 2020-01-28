@@ -1,3 +1,6 @@
+#' ---
+#' output: github_document
+#' ---
 #' Which libraries does R search for packages?
 
 .libPaths()
