@@ -8,7 +8,11 @@ Which libraries does R search for packages?
 ``` r
 ## how jenny might do this in a first exploration
 ## purposely leaving a few things to change later!
+
+print("hello")
 ```
+
+    ## [1] "hello"
 
 Which libraries does R search for packages?
 
